@@ -1,0 +1,81 @@
+body
+h1,h2    {color:#cecec8;background-color: #5c5c57;}
+
+img{
+  border: 1px white solid;border-radius: 40%}
+
+body
+{
+  background-color: rgb(26, 23, 23);
+  color: aliceblue;
+}
+.underline{
+text-decoration: underline;
+
+}
+
+
+.dim{ color:light blue;
+  border: 1px solid;
+  border-radius: 15px;
+  padding: 1rem;
+}
+
+
+
+
+.bio {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style individual list items */
+.bio li {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: #ebe5e5;
+}
+ 
+
+
+
+
+ . style} table {
+  width: 100%; /* Make the table take up 100% of its container's width */
+  border-collapse: collapse; /* Collapse the borders into a single border */
+  font-family: Arial, sans-serif; /* Choose a font */
+  color: #0b0a0a; /* Set the text color */
+}
+
+/* Style the table header */
+th {
+  background-color: #0b0909; /* Set a background color for the header row */
+  border: 1px solid #050404; /* Add a white border */
+  padding: 10px; /* Add padding to the header cells */
+}
+
+/* Style the table rows alternately */
+tr:nth-child(even) {
+  background-color: #151111; /* Set a background color for even rows */
+}
+
+/* Style the table cells */
+td {
+  border: 1px solid #ffffff; /* Add a white border to the cells */
+  padding: 10px; /* Add padding to the cells */
+}
+
+/* Hover effect for table rows */
+tr:hover {
+  background-color: #0e0a0a; 
+
+
+.style
+{ border: 2px solid rgb(11, 10, 10); /* 2px solid border with color=white */
+ padding: 1rem;
+ margin: 1rem;
+    border-radius: 15px;/* Add some padding to create space between the content and the border */
+  }
+  
+  
